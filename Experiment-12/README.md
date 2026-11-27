@@ -262,6 +262,9 @@ plt.show()
 ### 3. Face Detection
 <img width="595" height="625" alt="image" src="https://github.com/user-attachments/assets/ab667a3d-ee9f-4ef0-a8f4-df31bf20b556" />
 
+### 4. Real-Time Webcam Face Detection
+<img width="905" height="690" alt="image" src="https://github.com/user-attachments/assets/0c2bd0a9-1f4e-41d9-93e8-0e3fb17437dd" />
+
 ## RESULT:
 
 Thus, the Python program for extracting the Region of Interest, detecting faces and eyes using Haar Cascade classifiers, and performing real-time face detection using OpenCV and Matplotlib was executed successfully.
